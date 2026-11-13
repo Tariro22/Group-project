@@ -4,6 +4,9 @@
 # Previous project backups
 StudentSphere_Pre_Postgres_Server_Backup/
 
+# Nested clones or test directories
+/Group-project/
+
 # Root-level duplicate files
 /prod-ca-2021.crt
 /server.pg.js
