@@ -4,5 +4,19 @@
 # Previous project backups
 StudentSphere_Pre_Postgres_Server_Backup/
 
-# Root-level duplicate SSL certificate
+# Root-level duplicate files
 /prod-ca-2021.crt
+/server.pg.js
+
+# Environment and sensitive keys
+.env
+*.env
+
+# Dependencies
+node_modules/
+
+# Uploads and databases
+uploads/
+*.db
+*.db-shm
+*.db-wal
