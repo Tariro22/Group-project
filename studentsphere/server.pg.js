@@ -2766,6 +2766,10 @@ async function recommendationSideEffects(rec, student, lecturer, action, detail 
   }
 }
 
+// =========================
+// RECOMMENDATIONS & APPROVAL WORKFLOW
+// Module Lead: Deborah Dimas Amos (Deborah-Dimas-Amos / dimasd@africau.edu)
+// =========================
 app.get("/api/recommendations", auth(), wrap(async (req, res) => {
   let sql = RECS_SQL;
   let params = [];
