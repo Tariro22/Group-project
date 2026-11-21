@@ -1,3 +1,5 @@
+// StudentSphere Official Student Roster Verification Module
+// Module Lead: Ashleigh Gopo (ashblonde / gopoa@africau.edu)
 // Secure server-side lookup of official student records stored in Supabase.
 // Never place the service-role key in frontend JavaScript.
 

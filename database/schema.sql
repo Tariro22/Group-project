@@ -1,5 +1,6 @@
---AU_Student_Website_DatabaseSchema
---Role:Database Administrator/System_Architect
+-- AU_Student_Website_DatabaseSchema
+-- Module Lead & Database Developer: Ashleigh Gopo (ashblonde / gopoa@africau.edu)
+-- Role: Database Administrator / System Architect
 
 -- StudentSphere AU - Database Design
 -- Role: Database Administrator
