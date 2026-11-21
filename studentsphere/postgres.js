@@ -1,4 +1,6 @@
-﻿require("dotenv").config();
+﻿// StudentSphere Supabase PostgreSQL Architecture Module
+// Module Lead: Ian Edson Mwashanja (Ian-Edson-Mwashanja / ianedson988@africau.edu)
+require("dotenv").config();
 const { Pool } = require("pg");
 if (!process.env.DATABASE_URL) {
   throw new Error("DATABASE_URL is missing from .env");
