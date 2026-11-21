@@ -1,3 +1,5 @@
+// StudentSphere Reusable UI Component Primitives
+// Frontend Developer & UI Lead: Rick Afonso Gove (rickafonsogove-cloud / rickafonsogove@gmail.com)
 // Small UI helpers shared by all pages
 export const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 export const $ = (sel, root = document) => root.querySelector(sel);
