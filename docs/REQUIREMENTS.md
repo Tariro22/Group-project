@@ -1,4 +1,6 @@
 # StudentSphere — Software Requirements Specification (SRS)
+**Module Lead & Author:** Tariro Nichole Tekwa (`Tariro22` / `tekwat@africau.edu`)  
+**Official Role:** Project Manager / System Analyst / Frontend Developer
 
 ## 1. Introduction
 This Software Requirements Specification document describes the functional and non-functional requirements for the **StudentSphere** web platform at Africa University. It defines the system capabilities, constraints, interface requirements, and traceability matrix for all implemented features.

@@ -1,5 +1,7 @@
 # StudentSphere — Project Proposal
-**Africa University Student Information, Portfolio & Recommendation System**
+**Africa University Student Information, Portfolio & Recommendation System**  
+**Module Lead & Author:** Tariro Nichole Tekwa (`Tariro22` / `tekwat@africau.edu`)  
+**Official Role:** Project Manager / System Analyst / Frontend Developer
 
 ## 1. Executive Summary
 Higher education institutions require robust digital platforms to streamline academic records, document extra-curricular achievements, and facilitate academic recommendations. At Africa University, students often face challenges when requesting recommendation letters from lecturers, tracking academic progress across semesters, and showcasing authenticated non-academic accomplishments. 
